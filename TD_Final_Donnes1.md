@@ -327,8 +327,3 @@ HAVING
     DATE_PART('year', AGE("user".birth_date)) < 20 AND COUNT("post".post_id)>0;
 ```
 
-### Group SOAM
-* Tsilavina Andriamiharison STD23100
-* Freddy Andriamanohiniaina STD23097
-* Nomena Randrianirina STD23033
-* Vaninah Andrivololontiana STD23042
